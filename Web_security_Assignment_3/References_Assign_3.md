@@ -1,0 +1,17 @@
+Reference:
+https://dev.to/abhinavgalodha/all-you-wanted-to-know-about-cors-2c4f
+https://developers.google.com/web/tools/chrome-devtools/network/?utm_source=devtools&utm_campaign=2019Q1
+https://www.codecademy.com/articles/what-is-cors
+https://livebook.manning.com/book/cors-in-action/chapter-4/16
+https://www.softwaretestinghelp.com/cross-site-scripting-xss-attack-test/
+https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request
+https://www.securesolutions.no/xss-explained/
+https://www.crackitdown.com/2018/05/how-to-use-beef-framework-in-kali-linux.html
+https://pentest-tools.com/blog/xss-attack-practical-scenarios/#xss-attack-5
+https://www.imperva.com/learn/application-security/reflected-xss-attacks/
+https://excess-xss.com
+https://www.acunetix.com/blog/articles/6-simple-ways-to-protect-your-website-from-attackers/
+https://www.youtube.com/watch?v=zTD4CYnm34c
+http://www.danieledonzelli.com/ethical-hacking/xss-reflected/
+https://www.acunetix.com/blog/articles/how-to-protect-your-website-against-a-cross-site-scripting-xss-attack/
+https://www.softwaretestinghelp.com/cross-site-scripting-xss-attack/

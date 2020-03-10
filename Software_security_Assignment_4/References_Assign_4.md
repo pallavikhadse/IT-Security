@@ -1,0 +1,12 @@
+Reference:
+https://www.vox.com/2014/6/19/18076318/heartbleed
+https://www.csoonline.com/article/3223203/what-is-the-heartbleed-bug-how-does-it-work-and-how-was-it-fixed.html
+https://content.sentrian.com.au/blog/protect-yourself-heartbleed
+https://dwheeler.com/essays/heartbleed.html
+https://en.wikipedia.org/wiki/Heartbleed
+http://heartbleed.com/
+https://doc.sonarqube.org/display/SONARQUBE52/Installing+and+Configuring+SonarQube+Scanner
+https://doc.sonarqube.org/latest/analysis/scan/sonarscanner/
+https://hub.docker.com/r/skilldlabs/sonar-scanner/
+https://techexpert.tips/sonarqube/sonarqube-scanner-installation-ubuntu-linux/
+https://forkify.netlify.com/#47746
